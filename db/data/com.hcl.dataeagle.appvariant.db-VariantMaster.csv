@@ -1,0 +1,3 @@
+ID,variantID,variantPurpose,appID,appVersion,variantStatus,tenantID,managedByUser
+cbcfb984-12cf-4ff2-ac5c-31ff23eaa517,V1,MyOrderCards,hcl.maintorder,1.0.0,ACTIVE,T1,sangita_p@hcl.com
+31cef2f2-58e7-4d4f-9ad3-ded9ac6bdb12,V2,MyActivities,hcl.worktiger.mroshop,1.0.0,DEACTIVATED,T1,sangita_p@hcl.com
