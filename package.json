@@ -1,5 +1,5 @@
 {
-  "name": "hcl-dataeagle",
+  "name": "@hcl/capire-hcl-dataeagle",
   "version": "1.0.0",
   "description": "HCL Dataeagle Solution (REL20210809)",
   "repository": "<Add your repository here>",
