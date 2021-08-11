@@ -2,3 +2,5 @@ ID,variantConfigID,variantParamID,managedByUser,variant_ID,paramType_paramDataTy
 cf5fa1ec-d2d0-444a-8d5e-09548f480bea,V1-P1,OrderStatus,sangita_p@hcl.com,cbcfb984-12cf-4ff2-ac5c-31ff23eaa517,String
 970a400c-60ce-4e16-8859-44a86f702bb5,V1-P2,WorkCenter,sangita_p@hcl.com,cbcfb984-12cf-4ff2-ac5c-31ff23eaa517,String
 812e34de-a31f-49fa-bf46-6f02497be422,V2-P1,ActivityID,sangita_p@hcl.com,31cef2f2-58e7-4d4f-9ad3-ded9ac6bdb12,String
+97deec37-616b-473e-81e8-7f0d10781393,V3-P1,MaintenanceProcessingPhase,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,Integer
+bd0697a0-5809-4b89-ac4e-1f4218a8fbf7,V3-P2,MaintenanceOrderType,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,String
