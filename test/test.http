@@ -1,0 +1,3 @@
+### Call Function getVariantPersonalization
+GET http://localhost:4004/dataeagle/appvariantuserdata/getVariantPersonalization(variantUserID='sangita_p@hcl.com',appID='hcl.gen3.maintorder')
+

@@ -48,6 +48,9 @@
       "db": {
         "kind": "sqlite",
         "model": "*",
+        "[production]":{
+            "kind": "hana"
+        },
         "credentials": {
           "database": "db/variant.db"
         }
