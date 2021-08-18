@@ -34,6 +34,8 @@ service DataEagleUserDataService @(path:'/dataeagle/appvariantuserdata'){
         b.appVersion,
         b.variantPurpose ;
 
+    function getVariantPersonalization(variantUserID:String, appID:String) returns String;
+
     /*entity VariantUserData as select from mycuserdata.VariantUserData;
     entity Variant as select from VariantUserData distinct { 
         key variantID, 
