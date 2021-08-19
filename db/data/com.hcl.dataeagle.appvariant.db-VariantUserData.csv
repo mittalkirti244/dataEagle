@@ -2,9 +2,9 @@ ID,variantUserDataID,variantID,variantConfigID,variantConfigParamID,variantConfi
 26f84b5e-1fa4-4b04-87b8-b19c25c50791,V_S123456789,V1,,OrderStatus,String,REL,T1,sangita_p@hcl.com,cbcfb984-12cf-4ff2-ac5c-31ff23eaa517,cf5fa1ec-d2d0-444a-8d5e-09548f480bea
 942d974d-eb08-48f1-ac5e-c1eea83784f9,V_S123456789,V1,,WorkCenter,String,,T1,sangita_p@hcl.com,cbcfb984-12cf-4ff2-ac5c-31ff23eaa517,970a400c-60ce-4e16-8859-44a86f702bb5
 15eeb935-8a22-4b86-a59b-bd21341a9a7b,V_S123000000,V2,,ActivityID,String,A100,T1,sangita_p@hcl.com,31cef2f2-58e7-4d4f-9ad3-ded9ac6bdb12,812e34de-a31f-49fa-bf46-6f02497be422
-bc205a4e-ef41-4044-a7b1-06b542aa2333,syedshadan.q@hcl.com,V3,,MaintenanceProcessingPhase,Integer,2,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
+bc205a4e-ef41-4044-a7b1-06b542aa2333,syedshadan.q@hcl.com,V3,,MaintenanceProcessingPhase,Integer,0,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
 3bf65196-18ed-418e-aeab-c73f03ef7ece,syedshadan.q@hcl.com,V3,,MaintenanceOrderType,String,PM01,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,bd0697a0-5809-4b89-ac4e-1f4218a8fbf7
-41af729d-570d-4aee-8c2f-f0cb1a83d726,sangita_p@hcl.com,V3,,MaintenanceProcessingPhase,Integer,2,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
+41af729d-570d-4aee-8c2f-f0cb1a83d726,sangita_p@hcl.com,V3,,MaintenanceProcessingPhase,Integer,0,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
 309734f6-26b8-490a-8edc-4153edc47aee,sangita_p@hcl.com,V3,,MaintenanceOrderType,String,PM01,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,bd0697a0-5809-4b89-ac4e-1f4218a8fbf7
-0ad25a5a-40e2-4a2b-80e8-7567fc2a3d39,ANANDVERMA@hcl.com,V3,,MaintenanceProcessingPhase,Integer,2,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
+0ad25a5a-40e2-4a2b-80e8-7567fc2a3d39,ANANDVERMA@hcl.com,V3,,MaintenanceProcessingPhase,Integer,0,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,97deec37-616b-473e-81e8-7f0d10781393
 93fda902-ceb4-48e8-990a-75f452253d41,ANANDVERMA@hcl.com,V3,,MaintenanceOrderType,String,PM01,T1,sangita_p@hcl.com,5e22ce8f-4e54-4ac7-b912-db828e6f9fb3,bd0697a0-5809-4b89-ac4e-1f4218a8fbf7

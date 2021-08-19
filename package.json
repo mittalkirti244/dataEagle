@@ -1,7 +1,7 @@
 {
   "name": "@hcl/capire-hcl-dataeagle",
-  "version": "1.0.0",
-  "description": "HCL Dataeagle Solution (REL20210809)",
+  "version": "1.0.1",
+  "description": "HCL Dataeagle Solution (REL20210819)",
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
   "private": true,
@@ -48,8 +48,8 @@
       "db": {
         "kind": "sqlite",
         "model": "*",
-        "[production]":{
-            "kind": "hana"
+        "[production]": {
+          "kind": "hana"
         },
         "credentials": {
           "database": "db/variant.db"
